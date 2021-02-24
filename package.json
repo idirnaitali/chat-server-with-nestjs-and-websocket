@@ -20,6 +20,9 @@
     "@nestjs/platform-express": "^7.0.0",
     "@nestjs/platform-socket.io": "^7.6.12",
     "@nestjs/websockets": "^7.6.12",
+    "class-transformer": "^0.4.0",
+    "class-validator": "^0.13.1",
+    "ngx-toastr": "^13.2.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4"
